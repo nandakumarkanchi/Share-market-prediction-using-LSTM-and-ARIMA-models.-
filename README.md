@@ -84,7 +84,6 @@ This module implements an **LSTM (Long Short-Term Memory)** neural network to pr
 
 ![LSTM Architecture](figures/lstm_architecture.png)
 
-*Figure 6: Architecture and layers of the proposed LSTM model highlighting gating mechanisms and information flow.*
 
 LSTM is chosen due to its ability to retain long-term dependencies in volatile time-series stock data.
 
@@ -98,7 +97,6 @@ The framework was evaluated on multiple Indian stocks, demonstrating strong tren
 
 ![TCS Prediction](figures/tcs_prediction.png)
 
-*Figure 8: TCS stock trend prediction using the proposed hybrid framework.*
 
 ---
 
@@ -114,7 +112,6 @@ The framework was evaluated on multiple Indian stocks, demonstrating strong tren
 
 ![TATAMOTORS Prediction](figures/tatamotors_prediction.png)
 
-*Figure 10: TATAMOTORS stock trend prediction results.*
 
 ---
 
